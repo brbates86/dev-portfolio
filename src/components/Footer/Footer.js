@@ -11,4 +11,4 @@ const Footer = () => (
   </footer>
 )
 
-export default Foot
+export default Footer
