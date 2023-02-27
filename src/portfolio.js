@@ -4,7 +4,7 @@ import aboutpic from "./components/Access/mePhoto.jpg"
 const header = {
   // photo:logopic,
   // all the properties are optional - can be left empty or deleted
-  // homepage: '',
+  // homepage: 'https://brbates86.github.io/dev-portfolio/',
    // title:logopic,
 }
 
