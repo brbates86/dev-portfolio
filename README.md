@@ -1,4 +1,4 @@
-# dev-portfolio
+# brb coding and web development portfolio
 
 This is a portfolio website built using React, a popular JavaScript library for building user interfaces. The website serves as a showcase for your skills, experience, and projects.
 
