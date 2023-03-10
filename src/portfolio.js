@@ -75,6 +75,15 @@ const projects = [
     livePreview: 'https://brbates86.github.io/Work-Day-Schedule/',
     
   },
+  {
+    name: 'ScreenSurfer',
+    description:
+      'The ScreenSurfer App is a tool that allows you to keep track of the movies you have watched or plan to watch. With this app, you can easily manage your movie collection, rate movies, and get recommendations based on your preferences.',
+    stack: ['React', 'Chakra UI', 'MongoDB', 'Node.js'],
+    sourceCode: 'https://github.com/brbates86/ScreenSurfer',
+    livePreview: 'https://morning-tundra-56106.herokuapp.com/',
+    
+  },
 ]
   
 
