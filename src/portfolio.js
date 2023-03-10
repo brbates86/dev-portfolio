@@ -83,7 +83,7 @@ const projects = [
     sourceCode: 'https://github.com/brbates86/ScreenSurfer',
     livePreview: 'https://morning-tundra-56106.herokuapp.com/',
     
-  },
+  }
 ]
   
 
