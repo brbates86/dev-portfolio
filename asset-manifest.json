@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dev-portfolio/static/css/main.091864af.css",
+    "main.css": "/dev-portfolio/static/css/main.22f82269.css",
     "main.js": "/dev-portfolio/static/js/main.8468dd25.js",
     "static/media/mePhoto.jpg": "/dev-portfolio/static/media/mePhoto.b3f11ef116aea906fef1.jpg",
     "static/media/weatherwiselogo.jpg": "/dev-portfolio/static/media/weatherwiselogo.32c3cf2a9cae9cedc0e7.jpg",
     "index.html": "/dev-portfolio/index.html",
-    "main.091864af.css.map": "/dev-portfolio/static/css/main.091864af.css.map",
+    "main.22f82269.css.map": "/dev-portfolio/static/css/main.22f82269.css.map",
     "main.8468dd25.js.map": "/dev-portfolio/static/js/main.8468dd25.js.map"
   },
   "entrypoints": [
-    "static/css/main.091864af.css",
+    "static/css/main.22f82269.css",
     "static/js/main.8468dd25.js"
   ]
 }
