@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dev-portfolio/static/css/main.2329e03f.css",
-    "main.js": "/dev-portfolio/static/js/main.d6d86fd2.js",
+    "main.css": "/dev-portfolio/static/css/main.41d7c499.css",
+    "main.js": "/dev-portfolio/static/js/main.b56ee5fc.js",
     "static/media/Fountlogotile.jpg": "/dev-portfolio/static/media/Fountlogotile.d79344548a5fafe88498.jpg",
     "static/media/mePhoto.jpg": "/dev-portfolio/static/media/mePhoto.b3f11ef116aea906fef1.jpg",
     "static/media/ScreenSurferTile.jpg": "/dev-portfolio/static/media/ScreenSurferTile.6daacac41941b2cde4a4.jpg",
@@ -10,11 +10,11 @@
     "static/media/techhubtile.jpg": "/dev-portfolio/static/media/techhubtile.d31cb9bf83bbfbb5d996.jpg",
     "static/media/securekeytile.jpg": "/dev-portfolio/static/media/securekeytile.eaa81a9fec26e325ac58.jpg",
     "index.html": "/dev-portfolio/index.html",
-    "main.2329e03f.css.map": "/dev-portfolio/static/css/main.2329e03f.css.map",
-    "main.d6d86fd2.js.map": "/dev-portfolio/static/js/main.d6d86fd2.js.map"
+    "main.41d7c499.css.map": "/dev-portfolio/static/css/main.41d7c499.css.map",
+    "main.b56ee5fc.js.map": "/dev-portfolio/static/js/main.b56ee5fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.2329e03f.css",
-    "static/js/main.d6d86fd2.js"
+    "static/css/main.41d7c499.css",
+    "static/js/main.b56ee5fc.js"
   ]
 }
